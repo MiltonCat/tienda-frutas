@@ -1,0 +1,8 @@
+
+firebase de google (https://tienda-alimentos.firebaseio.com/)
+
+los usuarios y contrase�as son
+nextu@gmail.com pass: nextu
+
+
+La aplicacion desarrollada en Angular2 escucha en localhost:4200
